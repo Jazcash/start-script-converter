@@ -1,0 +1,29 @@
+{
+    "game": {
+        "mapname": "Red Comet Remake 1.8",
+        "myplayername": "fish",
+        "ishost": 1,
+        "gametype": "Beyond All Reason test-17602-f1f76f9"
+    },
+    "allyteams": [
+        {
+            "numallies": 0,
+            "id": 0
+        }
+    ],
+    "teams": [
+        {
+            "teamleader": 0,
+            "allyteam": 0,
+            "id": 0
+        }
+    ],
+    "players": [
+        {
+            "team": 0,
+            "name": "fish",
+            "id": 0
+        }
+    ],
+    "ais": []
+}
