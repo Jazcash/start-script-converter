@@ -1,6 +1,10 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.ScriptConverter = void 0;
+/**
+ * TODO:
+ * - parse and convert restrictions
+ */
 class ScriptConverter {
     parseScript(scriptStr) {
         let obj = this.scriptToObject(scriptStr).game;

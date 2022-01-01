@@ -1,4 +1,8 @@
 import { Script } from "./model";
+/**
+ * TODO:
+ * - parse and convert restrictions
+ */
 export declare class ScriptConverter {
     parseScript(scriptStr: string): Script;
     generateScript(script: Script): string;

@@ -1,5 +1,9 @@
 import { AI, AllyTeam, Game, Player, Script, Team } from "~/model";
 
+/**
+ * TODO:
+ * - parse and convert restrictions
+ */
 export class ScriptConverter {
     public parseScript(scriptStr: string): Script {
         let obj = this.scriptToObject(scriptStr).game;
